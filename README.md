@@ -1,4 +1,4 @@
-# Fast Market Data Parser
+# Zero-Copy Market Data Parser
 
 C++20 NASDAQ ITCH 5.0 parser with zero-copy parsing, an MPMC queue, and asynchronous logging. Focused on predictable latency and clean, inspectable code.
 
